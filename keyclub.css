@@ -183,6 +183,13 @@ body
     margin-bottom: 60px;
 }
 
+.hero-right img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .hero-left ol
 {
     font-size: 25px;
